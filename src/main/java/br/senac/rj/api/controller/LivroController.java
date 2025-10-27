@@ -1,6 +1,5 @@
 package br.senac.rj.api.controller;
 
-import br.senac.rj.api.exceptions.ResourceNotFoundException;
 import br.senac.rj.api.model.Livro;
 import br.senac.rj.api.service.LivroService;
 import org.springframework.http.HttpStatus;
